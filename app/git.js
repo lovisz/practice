@@ -1,4 +1,4 @@
-//restore 파일 수정사항 되돌리기
+//restore 파일 수정사항 되돌리기(커밋 기준으로 되돌림)
 //git restore 파일명, git restore --staged 파일명, git restore .
 //revert 커밋 취소하기(사실상 새로운 커밋 생성하여 해당 커밋 삭제)
 //git revert 커밋ID, git revert HEAD(최신 커밋)
